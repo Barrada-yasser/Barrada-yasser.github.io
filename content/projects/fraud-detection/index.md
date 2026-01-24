@@ -30,7 +30,10 @@ Développement d'un système intelligent pour détecter automatiquement les comp
 ## 💡 Solution
 
 Système de détection d'objets et d'anomalies en temps réel utilisant **YOLOv8** pour identifier les comportements suspects dans les flux vidéo urbains.
+## 📸 Interface & Démonstration
 
+![Interface de détection](interface.png)
+*Système de détection en temps réel avec identification des comportements suspects*
 ## 🔧 Fonctionnalités
 
 - **Détection multi-objets temps réel** (personnes, véhicules, objets)
