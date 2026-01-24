@@ -5,12 +5,6 @@ main:
   - name: Projets
     url: /projects/
     weight: 20
-  - name: Compétences
-    url: /#skills
-    weight: 30
-  - name: Formation
-    url: /#education
-    weight: 40
   - name: Contact
     url: /#contact
-    weight: 50
+    weight: 30
