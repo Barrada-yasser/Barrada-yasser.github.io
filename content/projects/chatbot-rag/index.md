@@ -12,7 +12,7 @@ date: '2025-06-01'
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 links:
   - icon: github
