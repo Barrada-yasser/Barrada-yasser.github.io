@@ -11,17 +11,12 @@ hugoblox:
   # IDENTITY
   # Site-level branding (for people/profiles, use the author system in content/authors/)
   # ────────────────────────────────────────────────────────────────────────────
-  identity:
-    # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
-    # Legal entity for copyright notices (defaults to name if not set)
-    organization: ""
-    # Schema.org type for structured data
-    type: person                        # person | organization | local_business
-    # Short tagline displayed on your site
-    tagline: ""
-    # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
+identity:
+  name: "Yasser Barrada"
+  organization: ""
+  type: person
+  tagline: "Développeur IA & Machine Learning"
+  description: "Portfolio de Yasser Barrada - Développeur IA/ML spécialisé en systèmes multi-agents, NLP et Computer Vision. Recherche stage à partir de février 2025."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "LoreLabs_"              # Twitter/X handle for Twitter Cards (without @)
@@ -280,11 +275,11 @@ hugoblox:
   # Premium features and creator program (affiliates)
   # ────────────────────────────────────────────────────────────────────────────
   pro:
-    # Hide "Powered by HugoBlox" attribution
+    # Hide "Powered by Barrada Yasser" attribution
     # Requires: HugoBlox Premium to support HugoBlox via alternative means
     # Note: Even with Premium, you can keep this false to support open source!
     # Get Premium: https://hugoblox.com/premium
-    hide_attribution: false
+    hide_attribution: true
     
     # Affiliate referral code for rewards program
     # Join affiliate program: https://hugoblox.com/affiliates
