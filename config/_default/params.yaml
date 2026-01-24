@@ -17,10 +17,8 @@ identity:
   type: person
   tagline: "Développeur IA & Machine Learning"
   description: "Portfolio de Yasser Barrada - Développeur IA/ML spécialisé en systèmes multi-agents, NLP et Computer Vision. Recherche stage à partir de février 2025."
-    # Social accounts (used for meta tags like Twitter Cards)
-    social:
-      twitter: "LoreLabs_"              # Twitter/X handle for Twitter Cards (without @)
-
+  social:
+    twitter: "LoreLabs_"
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
   # Color and visual design system
