@@ -13,7 +13,7 @@ date: '2024-12-01'
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Links
 links:
