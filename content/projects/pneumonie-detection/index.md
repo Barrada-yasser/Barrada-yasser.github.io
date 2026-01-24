@@ -29,7 +29,19 @@ La détection précoce de la pneumonie est cruciale pour le traitement, mais l'a
 ## 💡 Solution
 
 Développement d'un modèle de deep learning basé sur **ResNet50** pour automatiser la détection de pneumonie sur des radiographies thoraciques avec une précision cliniquement pertinente.
+## 📸 Exemples de Détection
 
+![Exemple détection 1](interface1.png)
+*Détection de pneumonie sur radiographie thoracique*
+
+![Exemple détection 2](interface2.png)
+*Analyse automatique avec score de confiance*
+
+![Exemple détection 3](interface3.png)
+*Cas normal - Poumons sains*
+
+![Exemple détection 4](interface4.png)
+*Visualisation des prédictions du modèle ResNet50*
 ## 🔧 Architecture Technique
 
 - **Modèle :** ResNet50 pré-entraîné + fine-tuning
