@@ -5,6 +5,30 @@ main:
   - name: Projets
     url: /projects/
     weight: 20
+  - name: Formation
+    url: /#education
+    weight: 30
+  - name: Compétences
+    url: /#skills
+    weight: 40
+  - name: Expérience
+    url: /#experience
+    weight: 50
   - name: Contact
     url: /#contact
-    weight: 30
+    weight: 60
+```
+
+---
+
+## 📋 **Résumé des actions :**
+
+### **Fichier 1 : `content/_index.md`**
+✅ Ajoutez les 3 blocs markdown (Formation, Compétences, Expérience) - code fourni ci-dessus
+
+### **Fichier 2 : `config/_default/menus.yaml`**
+✅ Ajoutez les liens Formation, Compétences, Expérience
+
+### **Résultat attendu :**
+```
+Navigation : Accueil | Projets | Formation | Compétences | Expérience | Contact
