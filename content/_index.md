@@ -10,11 +10,11 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: me
-      text: ''
+- block: resume-biography-3
+  content:
+    username: me
+    text: |
+      Étudiant en développement IA/ML de 21 ans, actuellement en formation Concepteur et Développeur d'Applications à INSTA Paris. Spécialisé en systèmes multi-agents, deep learning et computer vision, j'ai développé plusieurs projets impactants incluant TravelBot (réduction de 95% du temps de recherche) et un système de détection de pneumonie avec 88,62% de précision.
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
