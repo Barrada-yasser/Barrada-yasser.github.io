@@ -18,7 +18,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Code
-    url:https://github.com/Barrada-yasser/urban-fraud-detection
+url: https://github.com/Barrada-yasser/urban-fraud-detection
 url_code: 'https://github.com/Barrada-yasser/urban-fraud-detection'
 ---
 
