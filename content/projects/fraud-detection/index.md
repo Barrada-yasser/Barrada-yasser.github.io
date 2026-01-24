@@ -12,14 +12,14 @@ date: '2025-05-01'
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 links:
   - icon: github
     icon_pack: fab
     name: Code
-    url: https://github.com/Barrada-yasser/fraud-detection
-url_code: 'https://github.com/Barrada-yasser/fraud-detection'
+    url:https://github.com/Barrada-yasser/urban-fraud-detection
+url_code: 'https://github.com/Barrada-yasser/urban-fraud-detection'
 ---
 
 ## 🎯 Contexte
