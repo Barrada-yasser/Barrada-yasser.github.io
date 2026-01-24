@@ -18,45 +18,49 @@ links:
   - icon: github
     icon_pack: fab
     name: Code
-url: https://github.com/Barrada-yasser/urban-fraud-detection
-url_code: 'https://github.com/Barrada-yasser/urban-fraud-detection'
+    url: https://github.com/Barrada-yasser/urban-fraud-detection
+url_code: https://github.com/Barrada-yasser/urban-fraud-detection
 ---
 
 ## 🎯 Contexte
 
-**Stage chez TCI Consulting (Avril-Mai 2025)**  
+**Stage chez TCI Consulting (Avril-Mai 2025)**
+
 Développement d'un système intelligent pour détecter automatiquement les comportements à risque et les fraudes en milieu urbain via analyse vidéo.
 
 ## 💡 Solution
 
-Système de détection d'objets et d'anomalies en temps réel utilisant **YOLOv8** pour identifier les comportements suspects dans les flux vidéo urbains.
+Système de détection d'objets et d'anomalies en temps réel utilisant YOLOv8 pour identifier les comportements suspects dans les flux vidéo urbains.
+
 ## 📸 Interface & Démonstration
 
 ![Interface de détection](interface.png)
-*Système de détection en temps réel avec identification des comportements suspects*
+
+*Dashboard de monitoring en temps réel avec détection YOLOv8*
+
 ## 🔧 Fonctionnalités
 
-- **Détection multi-objets temps réel** (personnes, véhicules, objets)
-- **Segmentation sémantique avancée** des scènes urbaines
-- **Analyse comportementale** pour détecter les anomalies
-- **Interface web de visualisation** avec alertes en temps réel
-- **Tracking d'objets** sur plusieurs frames
+- Détection multi-objets temps réel (personnes, véhicules, objets)
+- Segmentation sémantique avancée des scènes urbaines
+- Analyse comportementale pour détecter les anomalies
+- Interface web de visualisation avec alertes en temps réel
+- Tracking d'objets sur plusieurs frames
 
 ## 📊 Performances
 
-- **FPS : 30+** sur vidéo HD (détection temps réel)
-- **Précision de détection : 89%**
-- **Latence : <50ms** par frame
-- **Support multi-caméras simultané**
+- FPS : 30+ sur vidéo HD (détection temps réel)
+- Précision de détection : 89%
+- Latence : <50ms par frame
+- Support multi-caméras simultané
 
 ## 🛠️ Stack Technique
 
-- **Détection d'objets :** YOLOv8 (Ultralytics)
-- **Traitement vidéo :** OpenCV
-- **Deep Learning :** TensorFlow, PyTorch
-- **Backend :** Python, FastAPI
-- **Interface :** Dashboard web temps réel
-- **Stockage :** PostgreSQL pour logs d'événements
+- Détection d'objets : YOLOv8 (Ultralytics)
+- Traitement vidéo : OpenCV
+- Deep Learning : TensorFlow, PyTorch
+- Backend : Python, FastAPI
+- Interface : Dashboard web temps réel
+- Stockage : PostgreSQL pour logs d'événements
 
 ## 🎯 Impact Professionnel
 
