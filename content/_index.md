@@ -47,4 +47,24 @@ sections:
     design:
       view: card
       columns: 2
+    sections:
+  - block: resume-biography-3
+    content:
+      username: me
+      ...
+  - block: markdown
+    content:
+      title: '💼 Mes Projets'
+      ...
+  - block: collection
+    id: projects
+    ...
+  - block: resume-education
+    id: education
+    content:
+      title: 🎓 Formation
+      username: me
+    design:
+      spacing:
+        padding: ['60px', '0', '60px', '0']
 ---
