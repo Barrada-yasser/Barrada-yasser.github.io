@@ -16,8 +16,8 @@ links:
   - icon: github
     icon_pack: fab
     name: Code
-    url:https://github.com/Barrada-yasser/prediction-immobilier-iledefrance
-
+    url: https://github.com/Barrada-yasser/prediction-immobilier-iledefrance
+url_code: 'https://github.com/Barrada-yasser/prediction-immobilier-iledefrance'
 ---
 
 ## 🎯 Problématique
@@ -25,7 +25,6 @@ L'estimation des prix immobiliers est complexe et chronophage. Les méthodes man
 
 ## 💡 Solution
 Développement d'un modèle de machine learning basé sur **XGBoost** pour automatiser la prédiction de prix immobiliers en Île-de-France avec une précision statistiquement pertinente et un feature engineering avancé.
-
 
 
 ## 🔧 Architecture Technique
