@@ -29,19 +29,7 @@ Dans l'ère du Big Data, les entreprises doivent comprendre l'opinion publique e
 
 Développement d'un système end-to-end d'analyse de sentiments avec **pipeline de streaming temps réel** utilisant Apache Kafka, analyse NLP avec VADER, stockage MongoDB et visualisation interactive via Streamlit.
 
-## 📊 Dashboard Interactif
 
-![Dashboard principal](dashboard_overview.png)
-*Vue d'ensemble du dashboard avec métriques et graphiques en temps réel*
-
-![Graphiques sentiments](dashboard_charts.png)
-*Distribution des sentiments avec graphiques camembert et barres interactifs*
-
-![Liste tweets](dashboard_tweets.png)
-*Affichage des tweets analysés avec scores de confiance*
-
-![Analyseur temps réel](dashboard_analyzer.png)
-*Module d'analyse de nouveaux tweets en direct avec résultat instantané*
 
 ## 🏗️ Architecture Technique
 
