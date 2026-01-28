@@ -29,19 +29,6 @@ La gestion quotidienne d'emails représente une charge de travail considérable 
 
 Développement d'un **système d'automatisation d'emails intelligent** basé sur une architecture multi-agents IA utilisant **CrewAI** et **Claude d'Anthropic**. Le système orchestre 3 agents IA spécialisés travaillant en workflow séquentiel pour analyser, classifier et répondre automatiquement aux emails avec un niveau de personnalisation équivalent à une rédaction humaine.
 
-## 📸 Interface & Workflow
-
-![Interface principale](interface_main.png)
-*Interface de monitoring des emails traités avec statuts en temps réel*
-
-![Workflow agents](workflow_agents.png)
-*Visualisation du workflow des 3 agents IA collaborant en séquence*
-
-![Email analysé](email_analysis.png)
-*Exemple d'analyse complète : extraction, classification multi-critères, sentiment*
-
-![Réponse générée](email_response.png)
-*Génération de réponse personnalisée prête à l'envoi automatique*
 
 ## 🏗️ Architecture Technique
 
